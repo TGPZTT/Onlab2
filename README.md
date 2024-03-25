@@ -13,7 +13,7 @@ Hugging Face chatbot: A modell interaktív használatát biztosító felület.
 
 # További információk:
 
-A tantárgy honlapja: [https://github.com/richard-peng-xia/LMPT](https://inflab.tmit.bme.hu/24t/)
+A tantárgy honlapja: https://inflab.tmit.bme.hu/24t/
 A modell dokumentációja minden esetben a notebook fájlban található közvetlenül az implementáció előtt! (Véglegesítés után itt is olvasható lesz)
 A Hugging Face chatbot felülete: gradio
 
