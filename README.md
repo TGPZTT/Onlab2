@@ -16,6 +16,7 @@ Hugging Face chatbot: A modell interaktív használatát biztosító felület.
 A tantárgy honlapja: https://inflab.tmit.bme.hu/24t/
 A modell dokumentációja minden esetben a notebook fájlban található közvetlenül az implementáció előtt! (Véglegesítés után itt is olvasható lesz)
 A Hugging Face chatbot felülete: gradio
+A kapcsolódó word dokumentum, ami a leírását tartalmazza a jelen munkának: https://docs.google.com/document/d/e/2PACX-1vQKCMPPlZp60yE5MHJOY1qMa-JGxRMYEj4BCzzHIFAK3Yl9bCoYq2XOZgT2XaRZ3Qr1Kdz4Wd5a4i0-/pub 
 
 # Használat:
 
