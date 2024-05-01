@@ -10,6 +10,10 @@ NER modellek: 2 magyar és 1 multilingual modell, melyek a gazdasági szövegekb
 Prompt engineering: Kategorizációhoz használt technikák, amelyekkel a NER kiegészíthető. A program példamondatok alapján eldönti, hogy azoknak mi a témájuk.
 RAG implementáció: 4 magyar vonatkozású tanulmány feldolgozása, forrásmegjelöléssel ellátott válaszok adása a dokumentumokra vonatkozó kérdésekre.
 Hugging Face chatbot: A modell interaktív használatát biztosító felület.
+A chatbot feldolgozza a kérdéseket és magyar nyelven válaszol minden esetben. A válasz generálásához több modellt is felhasznál egyszerre.
+Figyelem! Feltételezhetően a túl gyors vagy túl nagy hívások miatt az API kulcsok néha letiltásra kerülhetnek. Ilyenkor újat kell generálni az Nvidia oldalán.
+Érdemes a különböző modellekhez különböző api kulcsokat használni.
+
 
 # További információk:
 
